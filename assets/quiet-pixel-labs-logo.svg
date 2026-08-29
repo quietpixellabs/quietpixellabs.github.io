@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 240" role="img" aria-labelledby="title desc">
+  <title id="title">Quiet Pixel Labs</title>
+  <desc id="desc">Quiet Pixel Labs wordmark beside two softly offset pixel frames.</desc>
+  <rect width="920" height="240" rx="28" fill="#f5f1e8"/>
+  <g transform="translate(34 26)">
+    <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="22" y="22" width="112" height="112" rx="28" stroke="#25241f" stroke-width="12" transform="rotate(-4 78 78)"/>
+      <rect x="68" y="68" width="112" height="112" rx="24" stroke="#e86f3b" stroke-width="12" transform="rotate(4 124 124)"/>
+    </g>
+    <rect x="85" y="85" width="30" height="30" rx="7" fill="#627b65"/>
+    <rect x="95" y="95" width="10" height="10" rx="2.5" fill="#f5f1e8"/>
+  </g>
+  <g fill="#25241f">
+    <text x="260" y="114" font-family="'DM Serif Display', Georgia, serif" font-size="78" letter-spacing="-2">Quiet Pixel</text>
+    <text x="264" y="168" font-family="'DM Sans', Arial, sans-serif" font-size="29" font-weight="600" letter-spacing="10">LABS</text>
+  </g>
+  <path d="M264 190h520" stroke="#e86f3b" stroke-width="4" stroke-linecap="round"/>
+</svg>
